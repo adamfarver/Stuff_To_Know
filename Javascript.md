@@ -1,16 +1,16 @@
 # JS
 -------
 
-##Glossary
+## Glossary
  
-###Argument
+### Argument
 Values passed into a function. Listed in the function call.
 
 ```Javascript
 iDontCare(argument);
 ```
 
-###Assignment
+### Assignment
 Operation that sets a var, let, or const to something.
 
 ```Javascript
@@ -39,7 +39,7 @@ if (value == x) {
 }
 ```
 
-###Boolean
+### Boolean
 A true or false value, internally denoted as 0 or 1. Also, see truthy and falsy.
 
 ### Composition
@@ -57,7 +57,7 @@ if (x == y)
 //  ^ condition in parenthesis
 ```
 
-###Do Loop
+### Do Loop
 Like while loop but will do at least one time.
 
 ```Javascript
@@ -66,14 +66,14 @@ do {
 } while (condition);
 ```
 
-###Expression
+### Expression
 A fragment of code that produces a value.
 
 ```Javascript
 x = 5;
 ```
 
-###Falsy Values
+### Falsy Values
 Values that are equivalent to FALSE.
 
 ```Javascript
@@ -87,20 +87,20 @@ if ("")
 if (document.all) [1]
 ```
 
-###Loop
+### Loop
 A code block that repeats code until the specified condition is met.
 
-###Method
+### Method
 A pre-defined way of manipulating an object.
 
 ```Javascript
 array = array.push("this")
 ```
 
-###Object
+### Object
 tk 
 
-###Parameters
+### Parameters
 Sometimes interchangeable with Arguments. These are the values listed at the top of the function that are passed in. 
 
 ```Javascript
@@ -109,15 +109,15 @@ function iDontCare (params) {
 }
 ```
 
-###Pure Method
+### Pure Method
 A method with a forced return and no side-effects. i.e. no console logs, etc.
 ### Refactor
 Modifying code so it is more concise and readable.
 
-###Ternary Operators
+### Ternary Operators
 Runs test against condition and based on bool, spits out one of two responses.
 
-###Truthy Values
+### Truthy Values
 Values that are equivalent to TRUE.
 
 ```Javascript
@@ -134,7 +134,7 @@ if (Infinity)
 if (-Infinity)
 ```
 
-###Unary Operators
+### Unary Operators
 One transformation of a value. 
 ```Javascript
 i++
