@@ -2,6 +2,22 @@
 
 ## Regular Dependencies
 
+### connect-mongo
+
+Store session data in mongodb.
+
+### express-session
+
+Allows for session and cookie data to be used in Express
+
+### express-handlebars
+
+For using handlesbars templating engine in Express.
+
+### method-override
+
+Lets you use HTTP verbs such as PUT or DELETE in places where the client doesn't support it.
+
 ### [React](reactjs.org)
 
 Front-End framework for creating interfaces
